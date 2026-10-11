@@ -1,0 +1,17 @@
+* {
+  margin: 50;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'helvetica neue';
+}
+html,
+body{
+  height: 100px;
+  width:300px;
+}
+.card{
+  background-color: pink;
+  border-radius: 10px;
+  margin:20px;
+  paddind:20px;
+}
